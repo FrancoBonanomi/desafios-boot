@@ -1,0 +1,83 @@
+
+/* - 'Lucida Sans Unicode', 'Lucida Grande', sans-serif
+- Impact, Charcoal, sans-serif
+- Arial, Gadget, sans-serif */
+
+
+
+
+
+
+body{
+    background-color:  rgb(39,50,56);
+}
+
+h1{
+    font-family: Impact, Charcoal, sans-serif;
+    text-align: center;
+    background-color: #fff;
+    color: rgb(105, 133, 147);
+    font-size: 60px;
+}
+
+p{
+    color: #fff;
+    font-family: Arial, Gadget, sans-serif;
+    font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+}
+
+.subtitulo{
+    text-transform: uppercase;
+    font-family:  Arial, Gadget, sans-serif;
+    font-weight: 800;
+    transform: skewX(-15deg);
+
+}
+
+.subtitulo-aspiradoras{
+    color: rgb(229, 203, 191);
+}
+
+
+.subtitulo-celulares{
+    color: rgb(161, 193, 203);
+}
+
+.subtitulo-consolas{
+    color: rgb(188, 189, 191);
+}
+
+.subtitulo-home-theaters{
+    color: rgb(140, 143, 149);
+}
+
+.subtitulo-televisores{
+    color: rgb(173, 171, 162);
+}
+
+img{
+    
+    width: clamp(300px,35vw,1000px);
+    margin-left: 20px;
+}
+
+.imagen1{
+    border: 5px solid rgb(229, 203, 191);
+}
+
+.imagen2{
+    border: 5px solid rgb(161, 193, 203);
+
+}
+
+.imagen3{
+    border: 5px solid rgb(188, 189, 191);
+}
+
+.imagen4{
+    border: 5px solid rgb(140, 143, 149);
+}
+
+.imagen5{
+    border: 5px solid rgb(173, 171, 162);
+}
